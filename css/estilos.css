@@ -1,0 +1,38 @@
+body{
+	background: white;
+	color: black;	
+	margin: 0px auto;
+
+	max-width: 1024px;
+}
+
+header{
+	background: blue;
+	border-radius: 5px;
+	color: white;
+	/*padding: 20px 0px 0px 0px; esto equivale a lo mismo del padding-top*/
+	padding-top: 5px;
+	text-align: center;
+}
+
+header img{
+	width: 100px;
+}
+
+header nav ul li{
+	background: orange;
+	color:black;
+	display: inline-block;
+	border-radius: 5px;
+	box-shadow: 5px 5px black;
+	padding: 5px;
+	width: 108px;
+	margin-right: 10px;
+
+}
+
+header nav ul li:hover{
+	background: black;
+	color: orange;
+	box-shadow: 5px 5px orange;
+}
