@@ -1,6 +1,6 @@
 body
 {
-	border: 1px solid blue;
+	
 	font-size: 16px;
 	margin: 0px auto;
 	/*Requerimiento del cliente*/
@@ -44,6 +44,7 @@ header nav ul li{
 	float: right;
 }
 #primerseccion{
+	height: 318px;
 	margin-top: 60px;
 }
 
@@ -72,17 +73,55 @@ header nav ul li{
 	content: "• ";
 }
 
+#secc03art04{
+	padding-top: 50px;
+}
 
+#segundaseccion article{
+	text-align: right;
+	padding-right: 122px;
+}
 
+#terceraseccion article{
+	display: inline-block;
+	vertical-align: top;
+	margin-right: 15px;
+	width: 23%;
+}
 
+#terceraseccion article input[type="email"]{
+	border-radius: 5px;
+}
+
+#terceraseccion article input[type="button"]{
+	background: #8BC500;
+	border-radius: 5px;
+	color: white;
+}
+
+#terceraseccion article img{
+	vertical-align: middle;
+}
+
+.colorazul{
+	color: #4267B3;
+}
 
 .colorrosa{
 	color: #FF0099;
 
 }
 
+.colorverde{
+	color: #8BC500;
+}
+
 .letragrande{
 	font-size: 3.5em;
+}
+
+.letramediana{
+	font-size: 2em;
 }
 
 .nito{
