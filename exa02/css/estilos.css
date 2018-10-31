@@ -1,0 +1,155 @@
+body {
+	width: 1024px;
+	border: 1px solid blue;
+	
+
+}
+
+#primerseccion {
+	border:1px solid blue;
+
+
+
+}
+
+#aditii{
+	height: 45px;
+	padding-left: 130px;
+
+}
+
+#primerseccion input {
+	position: relative;
+	
+}
+
+
+#canasta {
+	padding-left: 40%;
+	height: 50px;
+}
+
+
+
+#segundaseccion {
+	border:1px solid blue;
+	background: #00bfa5;
+	
+}
+
+#segundaseccion ul li {
+
+
+}
+
+#terceraseccion {
+	border:1px solid blue;
+}
+
+#sec03art01 {
+	width: 50%;
+	background: #00bfa5;
+	border:1px solid blue;
+
+}
+
+
+
+#sec03art02 {
+	width: 50%;
+	background: #00bfa5;
+	border:1px solid blue;
+	display: inline-block;
+	position: relative;
+	padding-left: 510px;
+}
+
+#sec03art02 img {
+
+	height: 240px;
+}
+
+#cuartaseccion {
+	border:1px solid blue;
+	background: #00bfa5;
+	height: 50px;
+
+}
+
+#cuartaseccion div {
+	padding-left: 90px;
+
+}
+
+#quintaseccion {
+	border:1px solid blue;
+}
+
+#sec05art01 {
+	width: 33%;
+	display: inline-block;
+	border:.5px solid gray;
+}
+
+#sec05art01 img {
+	height: 115px;
+}
+
+#sec05art02 {
+	width: 33%;
+	display: inline-block;
+	border:.5px solid gray;
+}
+
+#sec05art02 img {
+	height: 115px;
+	padding-left: 10px;
+	
+}
+
+#sec05art03 {
+	width: 33%;
+	display: inline-block;
+	border:.5px solid gray;
+}
+
+#sec05art03  img {
+	height: 115px;
+
+}
+
+
+
+
+
+
+
+.letrachicablancanita {
+	font-size: 1em;
+	font-weight: bold;
+	color: #FFFFFF;
+	font-family: sans-serif;
+}
+
+.letrachicablanca {
+	font-size: 1em;
+	color: #FFFFFF;
+}
+
+.letramedianablanca {
+	font-size: 1.3em;
+	color: #FFFFFF;
+}
+
+
+.letragrandeblancanita {
+	font-size: 1.5em;
+	font-weight: bold;
+	color: #FFFFFF;
+	font-family: sans-serif;
+}
+
+
+
+
+
