@@ -1,0 +1,28 @@
+{
+  "name": "proyectoprueba",
+  "version": "0.0.0",
+  "description": "Aprender el usuo de npm en los proyectos web",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron .",
+    "empaqueta": "electron-packager . Calculadora --overwrite --asar"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "proyecto",
+    "prueba",
+    "aprender",
+    "web",
+    "rc"
+  ],
+  "author": "Melisse Vega",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "asar": "^0.14.5",
+    "electron": "^3.0.8",
+    "electron-packager": "^12.2.0"
+  }
+}
