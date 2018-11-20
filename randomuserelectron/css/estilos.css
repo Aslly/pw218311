@@ -4,6 +4,12 @@ body{
 	max-width: 1024px;
 	min-width: 1024px;
 }
+header{
+	position: fixed;
+	top:0px;
+	width: 1024px;
+}
+
 header,footer{
 	background: black;
 	color: white;
@@ -40,6 +46,7 @@ header nav ul li{
 }
 #primerSeccion{
 	background: #ABABAB;
+	margin-top: 143px;
 	padding-bottom: 10px;
 	width: 100%;
 }
